@@ -29,14 +29,14 @@ text-align: center;
 
 h2{
 font-family: 'Indie Flower',
-color: white;
+color: white; cursive;
 margin-left: 10px;
 font-size: 20px;
 text-align: left; 
 }
 
 h3{
-font-family: 'Shadows Into Light', cursive;;
+font-family: 'Shadows Into Light', cursive;
 color: white;
 font-size: 30px;
 text-align: center; 
@@ -52,7 +52,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: red;
+background: white;
 border-radius: 10px;
 
 }
@@ -74,7 +74,7 @@ li{
 
 section{
 	width: 700px;
-	background: gray;
+	background: white;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
@@ -83,7 +83,7 @@ section{
 aside{
 
 	width: 280px;
-	background: white;
+	background: gray;
 	height: 600px;
 	float: left;
 	margin-left: 20px;
@@ -94,9 +94,9 @@ aside{
 footer{
 width: 1000px;
 height: 70px;
-background: maroon;
+background: gray;
 float: left;
-margin-top: 20px;
+margin-top: 10px;
 border-radius: 10px;
 margin-bottom: 20px;
 }
