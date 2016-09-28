@@ -36,8 +36,8 @@ text-align: left;
 }
 
 h3{
-font-family: 'Shadows Into Light', cursive;
-color: white;
+font-family: 'Shadows Into Light', 
+color: white; cursive;
 font-size: 30px;
 text-align: center; 
 }
@@ -83,7 +83,7 @@ section{
 aside{
 
 	width: 280px;
-	background: gray;
+	background: orange;
 	height: 600px;
 	float: left;
 	margin-left: 20px;
